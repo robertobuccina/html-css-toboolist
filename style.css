@@ -1,0 +1,108 @@
+
+* {
+margin:0;
+padding:0;
+box-sizing: border-box;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+}
+header{
+    padding: 30px;
+}
+.logo{
+    float: left;
+    display: inline-block;   
+}
+.title-logo{
+   font-size: 45px;  
+}
+.button-bar{
+    margin: 70px 0 50px 0;
+}
+
+section{
+padding: 5px 0 20px 150px;
+}
+
+li{
+    padding: 0 10px 15px 20px; 
+    list-style-type: none;   
+}
+
+.head-list{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px 0 10px 165px;
+}
+
+.confirmed{
+    font-size: 10px;
+    color: green;
+    border:2px solid green;
+    border-radius: 50%;
+    padding: 3px;
+    margin-right: 10px;
+}
+
+.not-confirmed{
+    font-size: 10px;
+    color: red;
+    border:2px solid red;
+    border-radius: 50%;
+    padding: 3px;
+    margin-right: 10px;
+}
+
+.button-blue{
+    font-size: 10px;
+    background-color: rgb(45, 187, 253);
+    padding: 7px;
+    border-radius: 50px;
+    color: white;
+    margin-left: 10px;
+}
+
+.button-violet{
+    font-size: 10px;
+    background-color: rgb(158, 83, 201);
+    padding: 7px;
+    border-radius: 50px;
+    color: white;
+    margin-left: 10px;
+}
+
+.button-green{
+    font-size: 10px;
+    background-color: rgb(76, 162, 124);
+    padding: 7px;
+    border-radius: 50px;
+    color: white;
+    margin-left: 10px;
+}
+
+.button-lightgreen{
+    font-size: 10px;
+    background-color: lightgreen;
+    padding: 7px;
+    border-radius: 50px;
+    color: white;
+    margin-left: 10px;
+}
+
+.button-orange{
+    font-size: 10px;
+    background-color: rgb(240, 141, 95);
+    padding: 7px;
+    border-radius: 50px;
+    color: white;
+    margin-left: 10px;
+}
+
+.button-red{
+    font-size: 10px;
+    background-color: red;
+    padding: 7px;
+    border-radius: 50px;
+    color: white;
+    margin-left: 10px;
+}
